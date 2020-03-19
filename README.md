@@ -1,5 +1,6 @@
+
 # yolo3-keras
-这是一个yolo3-keras的源码，可以用于训练自己的模型。
+这是一个yolo3-keras的源码，可以用于训练自己的数据集模型。
 
 # 文件下载
 训练所需的yolo_weights.h5可以在Release里面下载。  
